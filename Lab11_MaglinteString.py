@@ -2,7 +2,7 @@ Words = []
 Your_Words = []
 
 print("Place Words!-")
-for x in range (1, 6):
+for x in range (1, 11):
     word = str(input(f"Word {x}:"))
     Words.append(word)
     
